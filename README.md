@@ -414,7 +414,4 @@ Feel free to submit issues, fork the repository, and create pull requests for an
 ---
 
 **Happy Chatting with Your PDFs! 📚💬**
-#   c h a t - w i t h - P D F s 
- 
- #   c h a t - w i t h - P D F s  
- 
+#
